@@ -1,0 +1,10 @@
+
+Link admin: 	http://localhost/banhang/public/admin/layout/nhanvien/danhsach.php
+
+Link trang chủ: http://localhost/banhang/public/frontend/home.php
+
+đăng nhập Admin:	status=1 mới được đăng nhập vao admin
+		username: 	phihuong
+			pass:	phihuong
+
+Cần kết nối mạng để nhìn đẹp mắt hơn!!
