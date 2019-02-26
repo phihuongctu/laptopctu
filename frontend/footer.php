@@ -56,7 +56,7 @@
 					
 					<div class="dieuhuong">
 						<div class="-title clearfix">
-							<b><img width="220px;" height="120px;" src="hinh/logo.jpg"></b>
+							<b><img width="220px;" height="120px;" src="../hinh/logo.jpg"></b>
 							<b><p>Website bán laptop</p></b>
 						</div>
 						
@@ -93,7 +93,7 @@
                                                           
                                  ?>
 							<li>
-								<a href="card_chitiet.php?id=<?php echo $mshh; ?>"><?php echo '<img style="width: 70px;" class="avatar" src="hinh/'.$hinh.' " alt="placeholder+image">'?>		
+								<a href="card_chitiet.php?id=<?php echo $mshh; ?>"><?php echo '<img style="width: 70px;" class="avatar" src="../hinh/'.$hinh.' " alt="placeholder+image">'?>		
 								</a>
 								<a href="card_chitiet.php?id=<?php echo $mshh; ?>" class="ten"><?php echo $tenhh;?></a>
 							</li>

@@ -137,7 +137,7 @@ section.product_d .images_d {
     
 <?php
 
-        include_once('header.php');
+        include('header.php');
         $conn = mysqli_connect('localhost', 'root', '', 'banhang') or die ('Không thể kết nối tới database');
         mysqli_set_charset($conn, 'UTF8');
         
@@ -157,7 +157,7 @@ section.product_d .images_d {
 <div class="navigation">
     <div class="blackRum">
         	<span class="home1">
-            	<a href="index.php">Trang chủ</a>
+            	<a href="home.php">Trang chủ</a>
                  ›
             </span>
         <span class="home1">

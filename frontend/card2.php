@@ -3,17 +3,16 @@
 <head>
   <title>Giỏ Hàng Của Bạn</title>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <link href="frontend/css/style.css" rel="stylesheet" type="text/css">
-    <link href="frontend/css/reset.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/reset.css" rel="stylesheet" type="text/css">
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link href="frontend/css/owl.carousel.min.css" rel="stylesheet">
-    <link href="frontend/css/owl.theme.default.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="frontend/css/back_top.css">
-    <link rel="stylesheet" type="text/css" href="frontend/css/home.css">
-    <link rel="stylesheet" type="text/css" href="frontend/css/menu.css">
-    <link rel="stylesheet" type="text/css" href="frontend/css/back_top.css">
+    <link href="css/owl.carousel.min.css" rel="stylesheet">
+    <link href="css/owl.theme.default.min.css" rel="stylesheet">
+    <link href="css/home.css" rel="stylesheet" type="text/css">
+    <link href="css/menu.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="css/back_top.css">
     <style type="text/css">
       #myBtn {
   display: none;

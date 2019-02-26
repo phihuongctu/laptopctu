@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="frontend/css/menu.css">
+<link rel="stylesheet" type="text/css" href="css/menu.css">
 <ul class="nav navbr-nav menu">
    <?php
       $conn = mysqli_connect('localhost', 'root', '', 'banhang') or die ('Không thể kết nối tới database');

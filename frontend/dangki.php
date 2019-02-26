@@ -10,7 +10,7 @@
 		
 		
 		<!-- Stylesheets -->
-		<link rel="stylesheet" href="frontend/css/main-stylesheet.css" type="text/css" />
+		<link rel="stylesheet" href="css/main-stylesheet.css" type="text/css" />
 		
 
 <style type="text/css">

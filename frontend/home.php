@@ -6,9 +6,9 @@
 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-	<link rel="stylesheet" type="text/css" href="frontend/css/home.css">
-	<link rel="stylesheet" type="text/css" href="frontend/css/menu.css">
-	<link rel="stylesheet" type="text/css" href="frontend/css/back_top.css">
+	<link rel="stylesheet" type="text/css" href="css/home.css">
+	<link rel="stylesheet" type="text/css" href="css/menu.css">
+	<link rel="stylesheet" type="text/css" href="css/back_top.css">
 
 	
 <style type="text/css">
@@ -62,7 +62,7 @@
 			
 		 <?php include('footer.php') ?>	
 		 
-<button onclick="topFunction()" id="myBtn" title="Go to top"><img src="hinh/top.png" alt="placeholder+image"></button>
+<button onclick="topFunction()" id="myBtn" title="Go to top"><img src="../hinh/top.png" alt="placeholder+image"></button>
 
 <script>
 
@@ -81,7 +81,7 @@ function topFunction() {
     document.documentElement.scrollTop = 0;
 }
 </script>	
-<script src="frontend/js/home.js"></script>
+<script src="js/home.js"></script>
 	
 
 	

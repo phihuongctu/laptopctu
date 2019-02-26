@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="frontend/css/menu.css">
+<link rel="stylesheet" type="text/css" href="css/menu.css">
 <style type="text/css">
 	.noibat2 {
 	color: #FE980F;
@@ -67,7 +67,7 @@
 		<div class="card">
 			<div class="img-box">
 				
-				<?php echo '<img style="width: 200px;" class="avatar" src="hinh/'.$hinh.' " alt="placeholder+image">
+				<?php echo '<img style="width: 200px;" class="avatar" src="../hinh/'.$hinh.' " alt="placeholder+image">
 				<div class="TTIN">'?>
 					<p style="text-align: center;"><?php echo $tenhh;?></p>
 				
@@ -83,8 +83,8 @@
 			<div class="content">
 				<!-- <h1>Laptop Dell</h1> -->
 				<ul class="shop">
-					<?php echo '<li class="item"><a href="frontend/card2.php?id='.$mshh. '"><i class="fas fa-shopping-cart"></i></a></li>'?>
-					<li class="item"><a href="frontend/card_chitiet.php?id=<?php echo $mshh; ?>"><i class="fas fa-search-plus"></i></a></li>
+					<?php echo '<li class="item"><a href="card2.php?id='.$mshh. '"><i class="fas fa-shopping-cart"></i></a></li>'?>
+					<li class="item"><a href="card_chitiet.php?id=<?php echo $mshh; ?>"><i class="fas fa-search-plus"></i></a></li>
 
 				</ul>
 			</div>
@@ -126,7 +126,7 @@
 		<div class="card">
 			<div class="img-box">
 				
-				<?php echo '<img style="width: 200px;" class="avatar" src="hinh/'.$hinh.' " alt="placeholder+image">
+				<?php echo '<img style="width: 200px;" class="avatar" src="../hinh/'.$hinh.' " alt="placeholder+image">
 				<div class="TTIN">'?>
 					<p style=""><?php echo $tenhh;?></p>
 				
@@ -184,7 +184,7 @@
 		<div class="card">
 			<div class="img-box">
 				
-				<?php echo '<img style="width: 200px;" class="avatar" src="hinh/'.$hinh.' " alt="placeholder+image">
+				<?php echo '<img style="width: 200px;" class="avatar" src="../hinh/'.$hinh.' " alt="placeholder+image">
 				<div class="TTIN">'?>
 					<p style=""><?php echo $tenhh;?></p>
 				

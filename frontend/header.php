@@ -2,7 +2,7 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="frontend/css/back_top.css">
+<link rel="stylesheet" type="text/css" href="css/back_top.css">
 
 <style type="text/css">
 .item_l1{
@@ -63,7 +63,7 @@ input[type=text] {                    /*search*/
                                                           
                                  ?>
                 <ul>
-                    <li  class="item_l1"><i class=""><a href="home.php"></i> <img width="150px;" height="50px;" src="hinh/logo.jpg"></a></li>
+                    <li  class="item_l1"><i class=""><a href="home.php"></i> <img width="150px;" height="50px;" src="../hinh/logo.jpg"></a></li>
                     <form action="search.php" method="GET">
                         <li class="item_l">
                             <input type="submit" name="timkiem" class="timkiem" value="Tìm">
@@ -109,7 +109,7 @@ input[type=text] {                    /*search*/
                                                             
                                     
                                  ?>
-          <img style="width: 1300px; height: 325px;" class="mySlides" src="hinh/<?php echo $ten ?>">
+          <img style="width: 1300px; height: 325px;" class="mySlides" src="../hinh/<?php echo $ten ?>">
                               <?php 
                             }
                                 }else {
